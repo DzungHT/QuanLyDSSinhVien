@@ -1,0 +1,9 @@
+D:\Work\HVIT\Agoda.com\B. Source Code\QuanLyDSSinhVien\QuanLyDSSinhVien\bin\Debug\QuanLyDSSinhVien.exe.config
+D:\Work\HVIT\Agoda.com\B. Source Code\QuanLyDSSinhVien\QuanLyDSSinhVien\obj\Debug\QuanLyDSSinhVien.csprojResolveAssemblyReference.cache
+D:\Work\HVIT\Agoda.com\B. Source Code\QuanLyDSSinhVien\QuanLyDSSinhVien\bin\Debug\QuanLyDSSinhVien.exe
+D:\Work\HVIT\Agoda.com\B. Source Code\QuanLyDSSinhVien\QuanLyDSSinhVien\bin\Debug\QuanLyDSSinhVien.pdb
+D:\Work\HVIT\Agoda.com\B. Source Code\QuanLyDSSinhVien\QuanLyDSSinhVien\obj\Debug\QuanLyDSSinhVien.exe
+D:\Work\HVIT\Agoda.com\B. Source Code\QuanLyDSSinhVien\QuanLyDSSinhVien\obj\Debug\QuanLyDSSinhVien.pdb
+D:\System Folders\Documents\Visual Studio 2015\Projects\QuanLyDSSinhVien\QuanLyDSSinhVien\bin\Debug\QuanLyDSSinhVien.exe.config
+D:\System Folders\Documents\Visual Studio 2015\Projects\QuanLyDSSinhVien\QuanLyDSSinhVien\obj\Debug\QuanLyDSSinhVien.exe
+D:\System Folders\Documents\Visual Studio 2015\Projects\QuanLyDSSinhVien\QuanLyDSSinhVien\obj\Debug\QuanLyDSSinhVien.pdb
