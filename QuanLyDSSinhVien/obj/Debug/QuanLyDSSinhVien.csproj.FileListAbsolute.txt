@@ -7,3 +7,6 @@ D:\Work\HVIT\Agoda.com\B. Source Code\QuanLyDSSinhVien\QuanLyDSSinhVien\obj\Debu
 D:\System Folders\Documents\Visual Studio 2015\Projects\QuanLyDSSinhVien\QuanLyDSSinhVien\bin\Debug\QuanLyDSSinhVien.exe.config
 D:\System Folders\Documents\Visual Studio 2015\Projects\QuanLyDSSinhVien\QuanLyDSSinhVien\obj\Debug\QuanLyDSSinhVien.exe
 D:\System Folders\Documents\Visual Studio 2015\Projects\QuanLyDSSinhVien\QuanLyDSSinhVien\obj\Debug\QuanLyDSSinhVien.pdb
+D:\Work\GIT\QuanLyDSSinhVien\QuanLyDSSinhVien\bin\Debug\QuanLyDSSinhVien.exe.config
+D:\Work\GIT\QuanLyDSSinhVien\QuanLyDSSinhVien\obj\Debug\QuanLyDSSinhVien.exe
+D:\Work\GIT\QuanLyDSSinhVien\QuanLyDSSinhVien\obj\Debug\QuanLyDSSinhVien.pdb

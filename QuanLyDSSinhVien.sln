@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyDSSinhVien", "QuanLyDSSinhVien\QuanLyDSSinhVien.csproj", "{0FBE56C1-A111-4304-937B-661B12CE7442}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyDSSinhVien_MVC", "QuanLyDSSinhVien_MVC\QuanLyDSSinhVien_MVC.csproj", "{EB597165-822F-486D-988F-E21275775EDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0FBE56C1-A111-4304-937B-661B12CE7442}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FBE56C1-A111-4304-937B-661B12CE7442}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FBE56C1-A111-4304-937B-661B12CE7442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB597165-822F-486D-988F-E21275775EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB597165-822F-486D-988F-E21275775EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB597165-822F-486D-988F-E21275775EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB597165-822F-486D-988F-E21275775EDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
